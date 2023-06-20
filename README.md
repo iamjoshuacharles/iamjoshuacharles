@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 
 </p>       
----
+
 
 ### Contact Me: <br>
 E-mail: joshuacharles.n@gmail.com<br>
