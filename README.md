@@ -2,9 +2,9 @@
 # NJAN JOSHUA
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Front-End+Developer!;Student)](https://git.io/typing-svg)
+My areas of interest are Web development, Software Engineering, Machine Learning and Artificial Intelligence<br>
 
-
-
+---
 ### Tools & Languages
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 </p>       
 
-
+---
 ### Contact Me: <br>
 E-mail: joshuacharles.n@gmail.com<br>
 Phone: +234(0)9063577550
