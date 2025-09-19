@@ -1,8 +1,8 @@
 ### Hello👋, Its Me
 # NJAN JOSHUA
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Front-End+Developer!;Student)](https://git.io/typing-svg)
-My areas of interest are Web development, Software Engineering, Machine Learning and Artificial Intelligence<br>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Web Developer!;Student)](https://git.io/typing-svg)
+My areas of interest are Web development, Data Engineering, Machine Learning and Artificial Intelligence<br>
 
 ---
 ### Tools & Languages
