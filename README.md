@@ -1,7 +1,7 @@
 ### Hello👋, Its Me
 # NJAN JOSHUA
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=016EEA&size=24&width=500&lines=Web%20Developer!;Student&duration=2000)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=FFD700&size=28&width=600&lines=Web%20Developer!;Student)
 My areas of interest are Web development, Data Engineering, Machine Learning and Artificial Intelligence<br>
 
 ---
